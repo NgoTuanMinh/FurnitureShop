@@ -1,0 +1,29 @@
+[
+    {
+    "categoryName": "Menu",
+    "subCategory": [
+        "Products",
+        "Rooms",
+        "Inspirations",
+        "About Us",
+        "Terms & Policy"
+        ]
+    },
+    {
+        "categoryName": "Account",
+        "subCategory": [
+            "My Account",
+            "Checkout",
+            "My Cart",
+            "My Catalog"
+        ]
+    },
+    {
+        "categoryName": "Stay Connected",
+        "subCategory": [
+            "Facebook",
+            "Instagram",
+            "Twitter"
+        ]
+    }
+]

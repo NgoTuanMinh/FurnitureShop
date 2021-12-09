@@ -1,0 +1,66 @@
+[
+    {
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfkwQsL6o5n557_5o4mVt7eLJwzHQPEGCCQ&usqp=CAU",
+        "name": "Syltherine",
+        "description": "Stylish cafe chair",
+        "price": "2.500.000",
+        "oldPrice": "3.500.000",
+        "id": "8a48b20adb094434bbc6f8bc9ed87cfb"
+    },
+    {
+        "imgSrc": "https://govi.vn/wp-content/uploads/2020/03/28-1.jpg",
+        "name": "Leviosa",
+        "description": "Stylish cafe chair",
+        "price": "2.500.000",
+        "oldPrice": "",
+        "id": "cb0afcaae9454d758952e561b42ff065"
+    },
+    {
+        "imgSrc": "https://salt.tikicdn.com/cache/525x525/ts/product/b4/d6/aa/ffc310d595f7215f7b3fd885d0b1247d.png",
+        "name": "Lolito",
+        "description": "Luxury big sofa",
+        "price": "7.500.000",
+        "oldPrice": "14.500.000",
+        "id": "c75b0313a7bd49f8b5fa745a525f5042"
+    },
+    {
+        "imgSrc": "https://cf.shopee.ph/file/1e7d477ab0b6fb73299e03e1b98c0e74",
+        "name": "Respira",
+        "description": "Minimalist fan",
+        "price": "500.000",
+        "oldPrice": "",
+        "id": "e4428ac3937641328bdbfcf2cf046a04"
+    },
+    {
+        "imgSrc": "https://a.1stdibscdn.com/1980s-pair-of-grifo-table-or-wall-lamp-by-artemide-italy-for-sale/1121189/f_191683121591160860183/LU2198319168312_master.jpg",
+        "name": "Grifo",
+        "description": "Night lamp",
+        "price": "1.500.000",
+        "oldPrice": "",
+        "id": "a3837bdf172b460abed801d8b298718a"
+    },
+    {
+        "imgSrc": "https://www.yankodesign.com/images/design_news/2018/09/muggo-keeps-your-perfect-brew-at-its-perfect-temperature/muggo_smart_travel_mug_layout.jpg",
+        "name": "Muggo",
+        "description": "Small mug",
+        "price": "1.500.000",
+        "oldPrice": "",
+        "id": "89c5ee2f9d7d449b88869d372d358f38"
+    },
+    {
+        "imgSrc": "https://image.dhgate.com/0x0s/f2-albu-g8-M01-7C-31-rBVaV15GGLmAd8umAAJbWV9mZnE387.jpg/bedding-sets-cute-bunny-pink-princess-style.jpg",
+        "name": "Pingky",
+        "description": "Cute bed set",
+        "price": "7.000.000",
+        "oldPrice": "14.000.000",
+        "id": "c1f7fb44f8c0445c89477fd38623248c"
+    },
+    {
+        "imgSrc": "https://i.pinimg.com/originals/ef/73/ef/ef73ef00e4ff33612a7c16076ef9a97a.jpg",
+        "name": "Potty",
+        "description": "Minimalist flower pot",
+        "price": "500.000",
+        "oldPrice": "",
+        "id": "46fb5c75fc35481786308f61dfd0a995"
+    }
+]
