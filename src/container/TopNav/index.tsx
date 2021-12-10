@@ -193,6 +193,7 @@ const TopNav = () => {
                 </div>
             </div>
         )
+    // eslint-disable-next-line
     }, [listCartProduct]);
 
     useEffect(() => {
